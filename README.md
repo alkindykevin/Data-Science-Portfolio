@@ -5,4 +5,3 @@ This repository houses a collection of data science projects that I and my group
 ## List of Projects
 
 ### 1.Machine Learning
-### 2.Data Visualization & Analysis 
