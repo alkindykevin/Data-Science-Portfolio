@@ -39,4 +39,9 @@ This repository houses a collection of data science projects that I and my group
 
 **Tools : *R, Ggplot***
 
+### [6. analysis of Danny's diner customer data | 8 Weeks SQL Challenge by Danny Ma](https://github.com/alkindykevin/Project-6-Case-Study-1-Danny-s-Diner)
+- Analyzed Danny's Diner customers data to gain insights for helping the owner to decide whether he should expand the existing customer loyalty program.
+
+**Tools : *SQL, PostgreSQL, PgAdmin4***
+
 *If you would like to reach me about the portfolio, collaborations, or job opportunities, just contact me at alkindy.ka@gmail.com*
